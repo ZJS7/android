@@ -77,10 +77,8 @@ To set up CCache, follow the following:
     $ breakfast "device name"
 
     $ brunch "device name"
-
-or make is all one line.
-
-    $ . build/envsetup.sh && breakfast "device name" && brunch "device name"
+###If there is an error in the JDK memory overflow
+   Please refer to the tutorial: http://www.cnblogs.com/dinphy/p/6138803.html
 
 Obtaining the zip created from the build process
 
@@ -91,3 +89,4 @@ To get the zip file that has been built, navigate to the following directory and
 If you found it, then congratulations! If you didn't, try retrying the build process but before doing so, ensure you do the following to make sure your next build is clean;
 
     $ cd ~/SudaMod && make clean && repo sync -j 16
+### Rom download: http://m.sudamoddownload.icoc.me

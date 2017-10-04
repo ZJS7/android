@@ -79,7 +79,7 @@ To set up CCache, follow the following:
     $ brunch "device name"
 ###If there is an error in the JDK memory overflow
 
-    [Please refer to the tutorial](http://www.cnblogs.com/dinphy/p/6138803.html)
+   [Please refer to the tutorial](http://www.cnblogs.com/dinphy/p/6138803.html)
 
 Obtaining the zip created from the build process
 
@@ -91,4 +91,5 @@ If you found it, then congratulations! If you didn't, try retrying the build pro
 
     $ cd ~/SudaMod && make clean && repo sync -j 16
 ###Download Site
-    [Rom download](http://m.sudamoddownload.icoc.me)
+
+   [Rom download](http://m.sudamoddownload.icoc.me)
